@@ -1,9 +1,9 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hola");
-        System.out.println("Mundo");
-        System.out.println("Hola Mundo");
+        String a = "Hola";
+        String b = "Mundo";
+        System.out.println(a+" "+b);
     }
 }
 
